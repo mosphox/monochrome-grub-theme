@@ -34,7 +34,7 @@ Hopefully it’s not too bad.
 
 - Fonts are probably the most scale-proof thing in the entire theme.
 But hey — if you want to tweak their size, you totally can.
-Check the Replacing Fonts section below for more details on how to ruin the layout.
+Check the [Replacing Fonts](https://github.com/mosphox/monochrome-grub-theme/edit/main/README.md#replacing-fonts) section below for more details on how to ruin the layout.
 
 ## A little note about everything thats written below
 This README was mostly written for future me — y’know, just in case I mess something up and have to reinstall everything from scratch.
