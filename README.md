@@ -58,7 +58,6 @@ Valid options are `"left"`, `"center"`, and `"right"` — in case you want your 
 If you’d rather just have a clean black fullscreen terminal, replace this in your `theme.txt`:
 
   ```
-  terminal-font: "DejaVu Sans Mono Regular 22"
   terminal-left: "0%"
   terminal-top: "0%"
   terminal-width: "100%"
@@ -140,3 +139,8 @@ Heads up: it’s still technically selectable (and clickable), but all it does i
 This theme was built and tested on Ubuntu, so it should work just fine on any Debian-based distro. Although the install script should support Arch as well — it hasn't been tested out.
 
 It was originally tested in a 2560×1600 virtual machine, and yep — it still looks fine there.
+
+## Credits
+The original background image was taken from [this artwork](https://www.furaffinity.net/view/12229289), though I’ve redrawn and upscaled it a bit to better fit high-res screens.
+
+This theme also uses fonts from the [Ubuntu Font Family](https://design.ubuntu.com/font) and [DejaVu Fonts](https://dejavu-fonts.github.io).
