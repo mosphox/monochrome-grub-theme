@@ -1,5 +1,5 @@
 # Monochrome GRUB Theme
-Well kinda monochrome but whatever.
+Well kinda monochrome but whatever
 
 ![Theme Screenshot](assets/example.png)
 
