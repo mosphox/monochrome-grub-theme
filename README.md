@@ -1,6 +1,5 @@
 # Monochrome GRUB Theme
 Well kinda monochrome but whatever.
-A cold, clean GRUB theme with big fonts, minimalist icons, and zero emotional warmth.
 
 ![Theme Screenshot](assets/example.png)
 
