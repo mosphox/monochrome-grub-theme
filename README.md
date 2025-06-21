@@ -14,7 +14,7 @@ git clone https://github.com/mosphox/monochrome-grub-theme.git
 ```
 cd monochrome-grub-theme
 ```
-You might need to add -main at the end if it was downloaded as zip
+You might need to add `-main` at the end, if it was downloaded as `.zip`
 
 #### Run
 ```
